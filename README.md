@@ -2,6 +2,7 @@
 
 Output: 
 
+![14](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/ccc1062b-9f40-48d8-a7cd-21b104cc7629)
 ![1](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/47425225-da78-4ff6-921e-1fefdcde6542)
 ![2](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/dd280a61-28ec-4639-bad9-02abfdf9f2f4)
 ![3](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/c0444be2-165a-47cc-ae87-820bd527f923)
@@ -15,7 +16,6 @@ Output:
 ![11](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/788af598-9ca7-4826-99c6-f532f910c2fa)
 ![12](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/e984dc3f-6d22-4bff-b980-468d51dd608c)
 ![13](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/1b558e4c-6810-4629-a14a-215f5e4cfe28)
-![14](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/ccc1062b-9f40-48d8-a7cd-21b104cc7629)
 ![15](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/c7213d9d-2a38-42a7-a94d-36aea8be7e03)
 ![16](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/1a43360e-b54a-4b47-aa08-88977992b8d9)
 ![17](https://github.com/rishithchintu/red-wine-quality-prediction-project/assets/75387341/26a1d102-3962-4718-883c-e8a20132fd26)
